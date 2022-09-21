@@ -1,4 +1,4 @@
 # Projection1
 Anything
 
-![d](Picture%20IT.jpg.jpg)
+![d](Picture%20IT.jpg)
